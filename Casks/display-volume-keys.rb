@@ -1,6 +1,6 @@
 cask "display-volume-keys" do
-  version "1.1.0"
-  sha256 "7a7e3a267e8467572b3c455109632a775b1b8557a475ca9ddc37db97f6dea05e"
+  version "1.1.1"
+  sha256 "0de19e4955c367a19d06a29886158cb009564824951aa957eb62b86eba18321b"
 
   url "https://github.com/ari92p/display-volume-keys/releases/download/v#{version}/DisplayVolumeKeys-#{version}.zip"
   name "DisplayVolumeKeys"
